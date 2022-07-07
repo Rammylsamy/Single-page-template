@@ -1,2 +1,2 @@
-# Single-page-template
-Created a Single page template with Responsive
+# Single-Page-Template
+Created a Single Page Template with Responsive
